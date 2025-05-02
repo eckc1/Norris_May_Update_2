@@ -190,7 +190,7 @@ LM36 shows the best evidence of signal.
 </details>
 
 
-# Top CpGs above FDR filter
+# Top CpGs below FDR filter
 
 LM23, LM26, LM27, LM32, LM38, LM41, and LM47 had the most CpGs that were significant after implementing an FDR threshold of 0.05. The remaining CpGs are shown in the tables below. The same lipid mediators had the most significant CpGs in all three cell types. 
 
