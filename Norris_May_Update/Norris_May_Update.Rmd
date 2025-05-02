@@ -64,7 +64,7 @@ and running BACON reduced inflation, even if it is not completely eliminated.
 
 We implemented a FDR cutoff of 0.05 to reduce the number of false positives in our data. 
 
-We built a table that displayed the number of CpGs above the FDR cutoff. 
+We built a table that displayed the number of CpGs below the FDR cutoff. 
 
 ## P-Value Histograms
 
@@ -195,7 +195,7 @@ LM36 shows the best evidence of signal.
 LM23, LM26, LM27, LM32, LM38, LM41, and LM47 had the most CpGs that were significant after implementing an FDR threshold of 0.05. The remaining CpGs are shown in the tables below. The same lipid mediators had the most significant CpGs in all three cell types. 
 
 
-## Table of CpGs above 0.05 for each lipid mediator
+## Table of CpGs below 0.05 FDR cut off for each lipid mediator
 
 ### Bcell
 
